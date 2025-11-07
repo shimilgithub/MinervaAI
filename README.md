@@ -102,7 +102,6 @@ MinervaAI/
     -  [`openai/gpt-oss-120b`](https://console.groq.com/docs/model/openai/gpt-oss-120b) via Groq :  a powerful open-weight MoE language model from OpenAI, available for high-reasoning and agentic tasks.
     - Optionally, you can use `llama-3-70b-versatile` via Groq API.
 
-
 ## 🧑‍💻 Setup & Installation
 
 1. **Clone the Repo**
