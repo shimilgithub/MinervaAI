@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+python-dotenv
+pypdf
+tk
