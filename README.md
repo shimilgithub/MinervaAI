@@ -120,7 +120,9 @@ python -m venv .venv
 
 3. **Install Requirements**
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 4. **Setup Environment Variables**
 
@@ -137,7 +139,9 @@ GITHUB_API_TOKEN = <your_github_token>
 
 
 ## ▶️ How to Run
-```python app.py```
+```
+python app.py
+```
 - On first run, a `faiss_store/` directory will be created to store the persistent index (`faiss.index`, `metadata.pkl`).
 - The UI window appears for interactive chat and search across all indexed data sources.
 
